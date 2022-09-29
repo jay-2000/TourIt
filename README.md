@@ -15,3 +15,8 @@ An open-source project for ROSP Lab based on Tourism website
 - [Akshata Pawar](https://github.com/akshata-444)
 
 - [Saikiran Panthagani](https://github.com/psai0011)
+
+
+## LICENSE
+
+[MIT LICENSE](https://github.com/jay-2000/TourIt/blob/main/LICENSE)
